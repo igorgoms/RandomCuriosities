@@ -76,7 +76,7 @@ Este projeto é uma aplicação web que fornece aos usuários curiosidades aleat
 ## Uso
 
 - Clique no botão "Mostrar Curiosidade Aleatória" para exibir uma curiosidade aleatória.
-- Use o seletor de idioma para mudar o idioma das curiosidades exibidas.
+- Use o seletor de idiomas para mudar os idiomas das curiosidades exibidas.
 
 ## Contribuindo
 
