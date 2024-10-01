@@ -30,6 +30,7 @@ pre {
     font-size: 12px;
 }
 
+/* Tornar o botão responsivo */
 button {
     margin-top: 20px;
     padding: 10px 20px;
@@ -40,6 +41,8 @@ button {
     cursor: pointer;
     transition: background-color 0.3s;
     border-radius: 20px;
+    width: 100%; /* Ocupa toda a largura disponível */
+    max-width: 300px; /* Limite máximo para o tamanho do botão */
 }
 
 button:hover {
@@ -51,6 +54,7 @@ button:hover {
     font-size: 18px;
     color: #0f0;
     display: none;
+    text-align: center;
 }
 
 /* Posicionar o botão de idioma no canto superior esquerdo */
@@ -96,4 +100,24 @@ footer p {
 
 .social-links a:hover {
     color: #0f0;
+}
+
+/* Media Queries para Responsividade */
+@media (max-width: 600px) {
+    h1 {
+        font-size: 24px; /* Tamanho da fonte para telas menores */
+    }
+    
+    p {
+        font-size: 16px; /* Tamanho da fonte para o subtítulo */
+    }
+    
+    pre {
+        font-size: 10px; /* Ajusta o tamanho do texto */
+    }
+
+    button {
+        font-size: 14px; /* Tamanho da fonte do botão */
+        padding: 10px 15px; /* Ajusta o padding do botão */
+    }
 }
