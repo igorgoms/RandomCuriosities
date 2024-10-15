@@ -73,6 +73,28 @@ const curiosities = {
         "Existem mais formas possíveis de embaralhar um baralho de cartas do que átomos na Terra.",
         "Algumas árvores podem viver milhares de anos. A mais antiga conhecida, chamada Matusalém, tem cerca de 4.800 anos.",
         "O som não pode viajar no espaço, porque não há ar para transportar as ondas sonoras."
+        
+        // Adicionando mais curiosidades
+        "Os flamingos são rosa devido à sua dieta rica em betacaroteno, encontrado em algas e crustáceos.",
+        "As borboletas têm sensores gustativos nas patas, permitindo que 'provem' a comida ao pousar.",
+        "O primeiro animal a ser clonado foi uma ovelha chamada Dolly, em 1996.",
+        "As estrelas-do-mar não têm cérebro, mas possuem um sistema nervoso complexo que as ajuda a se mover.",
+        "A maioria das pessoas nunca soube que os peixes podem ficar obcecados por seus reflexos em espelhos, pensando que é um outro peixe.",
+        "O coração de um camarão está localizado em sua cabeça.",
+        "O sol emite uma luz tão intensa que, se uma pessoa estivesse na Lua durante o dia, o sol pareceria 14 vezes mais brilhante do que na Terra.",
+        "Os humanos compartilham 60% do seu DNA com as bananas.",
+        "Existem mais de 200 cadáveres de alpinistas na montanha Everest, e muitos deles se tornaram marcos para os escaladores.",
+        "Os polvos têm três corações e seu sangue é azul devido à presença de hemocianina, uma proteína que transporta oxigênio.",
+        "O maior deserto do mundo é a Antártica, não o Saara.",
+        "As girafas têm o mesmo número de vértebras no pescoço que os humanos: sete.",
+        "Um dia em Vênus é mais longo que um ano em Vênus.",
+        "A água quente congela mais rápido que a água fria, conhecido como o efeito Mpemba.",
+        "O som do qual você está ouvindo agora se move a 343 metros por segundo no ar a temperatura ambiente.",
+        "Um único grão de arroz pode crescer em até 8.000 grãos se for plantado em um hectare.",
+        "A maior estrutura viva na Terra é a Grande Barreira de Corais, na Austrália.",
+        "Os raios podem atingir temperaturas de até 30.000 graus Celsius, cinco vezes mais quente que a superfície do sol.",
+        "As abelhas podem reconhecer rostos humanos e se lembram deles por vários dias.",
+        "O olfato humano é capaz de detectar até 1 trilhão de aromas diferentes."
     ],
     en: [
         // Technology
@@ -138,6 +160,28 @@ const curiosities = {
         "There are more possible ways to shuffle a deck of cards than there are atoms on Earth.",
         "Some trees can live for thousands of years. The oldest known, called Methuselah, is about 4,800 years old.",
         "Sound cannot travel in space because there is no air to carry sound waves."
+
+        // Adding more curiosities
+        "Flamingos are pink because of their diet rich in beta-carotene found in algae and crustaceans.",
+        "Butterflies have taste sensors on their feet, allowing them to 'taste' food upon landing.",
+        "The first animal to be cloned was a sheep named Dolly in 1996.",
+        "Starfish do not have brains but possess a complex nervous system that helps them move.",
+        "Most people don't know that fish can become obsessed with their reflections in mirrors, thinking it’s another fish.",
+        "A shrimp's heart is located in its head.",
+        "The sun emits such intense light that, if a person were on the Moon during the day, the sun would appear 14 times brighter than it does on Earth.",
+        "Humans share 60% of their DNA with bananas.",
+        "There are over 200 bodies of climbers on Mount Everest, and many of them have become landmarks for climbers.",
+        "Octopuses have three hearts, and their blood is blue due to the presence of hemocyanin, a protein that carries oxygen.",
+        "The largest desert in the world is Antarctica, not the Sahara.",
+        "Giraffes have the same number of neck vertebrae as humans: seven.",
+        "A day on Venus is longer than a year on Venus.",
+        "Hot water freezes faster than cold water, known as the Mpemba effect.",
+        "The sound you're hearing now travels at 343 meters per second in air at room temperature.",
+        "A single grain of rice can grow into up to 8,000 grains if planted in an acre.",
+        "The largest living structure on Earth is the Great Barrier Reef in Australia.",
+        "Lightning can reach temperatures of up to 30,000 degrees Celsius, five times hotter than the surface of the sun.",
+        "Bees can recognize human faces and remember them for several days.",
+        "The human sense of smell can detect up to 1 trillion different scents."
     ]
 };
 
